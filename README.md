@@ -17,12 +17,7 @@ To start the game Players click on boxes to fill the boxes.Who fill more boxes w
 
 To restart the game refresh the page.
 
-## How to Know Players?
-There are two colours in this game to know which is player 1 or player 2. 
 
-- Red : Player 1
-
-- Yellow : Player 2
 
 ## Game ScreenShort
 ![connect four game home](https://user-images.githubusercontent.com/84700316/136743322-b0c18c05-d0a0-4946-98db-2a3a6ac0442d.png)
