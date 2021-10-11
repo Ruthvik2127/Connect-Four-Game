@@ -33,3 +33,10 @@ There are two colours in this game to know which is player 1 or player 2.
 
 
 <h1 align="center"> Made with 🖤</h1>
+
+## Contributors 
+- Ruthvik 
+- aaquib ali 
+- Shrejal
+- Ekta arora
+
